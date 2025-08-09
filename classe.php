@@ -1,5 +1,4 @@
 <?php
-
 class CompteBancaire{
     private $solde=0;
     public function depot($montant){
